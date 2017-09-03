@@ -1,4 +1,5 @@
 
+// Мы добавили комментарий
   var i:integer;
         
    d1,d2, d3,    str,str1:string;
